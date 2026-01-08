@@ -1055,7 +1055,7 @@
 1053,Super Puyo Puyo,SNES,1993.0,Puzzle,Banpresto,0.0,0.0,1.69,0.01,1.7,,,,,,
 1054,NCAA Football 07,PS2,2006.0,Sports,Electronic Arts,1.41,0.05,0.0,0.23,1.7,87.0,18.0,8.6,23.0,EA Sports,E
 1055,The Sims 3: Late Night Expansion Pack,PC,2010.0,Simulation,Electronic Arts,0.59,0.87,0.0,0.23,1.7,74.0,17.0,5.3,77.0,The Sims Studio,T
-1056,No Man's Sky,PS4,2016.0,Action,Hello Games,0.63,0.76,0.03,0.27,1.7,71.0,94.0,4.5,5096.0,Hello Games[1],T
+1056,No Man's Sky,PS4,2016.0,Action,Hello Games,0.63,0.76,0.03,0.27,1.7,71.0,94.0,4.5,5096.0,Hello Games,T
 1057,Ben 10: Protector of Earth,DS,2007.0,Action,D3Publisher,0.68,0.82,0.0,0.19,1.7,,,,,,
 1058,Cabela's Big Game Hunter 2010,Wii,2009.0,Sports,Activision Value,1.58,0.0,0.0,0.12,1.69,,,7.8,4.0,Activision,T
 1059,SOCOM 3: U.S. Navy SEALs,PS2,2005.0,Shooter,Sony Computer Entertainment,1.22,0.34,0.04,0.1,1.69,82.0,59.0,8.8,64.0,Zipper Interactive,M
@@ -4814,7 +4814,7 @@
 4812,MLB 2006,PS2,2005.0,Sports,Sony Computer Entertainment,0.33,0.01,0.0,0.05,0.4,81.0,32.0,9,21.0,989 Sports,E
 4813,Ragnarok Odyssey,PSV,2012.0,Role-Playing,GungHo,0.2,0.01,0.16,0.03,0.4,66.0,21.0,7.8,111.0,Game Arts,T
 4814,Brunswick Pro Bowling,PS2,2007.0,Sports,505 Games,0.2,0.15,0.0,0.05,0.4,,,tbd,,Point of View,E
-4815,The Gunstringer,X360,2011.0,Shooter,Microsoft Game Studios,0.26,0.1,0.0,0.04,0.4,77.0,60.0,8.1,40.0,Twisted Pixel[1],T
+4815,The Gunstringer,X360,2011.0,Shooter,Microsoft Game Studios,0.26,0.1,0.0,0.04,0.4,77.0,60.0,8.1,40.0,Twisted Pixel,T
 4816,Rocket Power: Dream Scheme,GBA,2001.0,Action,THQ,0.29,0.11,0.0,0.01,0.4,,,,,,
 4817,Marvel: Ultimate Alliance,Wii,2006.0,Role-Playing,Activision,0.36,0.0,0.0,0.03,0.4,73.0,31.0,7.3,29.0,Vicarious Visions,T
 4818,LEGO Harry Potter: Years 5-7,3DS,,Action,Warner Bros. Interactive Entertainment,0.18,0.19,0.0,0.03,0.4,71.0,7.0,6.5,11.0,Traveller's Tales,E10+
@@ -10244,7 +10244,7 @@
 10242,X-Men: Next Dimension,XB,2002.0,Fighting,Activision,0.08,0.02,0.0,0.0,0.11,56.0,12.0,tbd,,Paradox Development Studio,T
 10243,Tyco RC: Assault with a Battery,PS,1999.0,Racing,Syscom,0.06,0.04,0.0,0.01,0.11,,,,,,
 10244,Felony 11-79,PS,1997.0,Racing,ASCII Entertainment,0.06,0.04,0.0,0.01,0.11,,,,,,
-10245,Machinarium,PC,2009.0,Adventure,Daedalic,0.0,0.09,0.0,0.02,0.11,85.0,47.0,8.8,526.0,Amanita Design[1],
+10245,Machinarium,PC,2009.0,Adventure,Daedalic,0.0,0.09,0.0,0.02,0.11,85.0,47.0,8.8,526.0,Amanita Design,
 10246,Avatar: The Last Airbender,PSP,2006.0,Adventure,THQ,0.1,0.0,0.0,0.01,0.11,57.0,9.0,6.3,10.0,TOSE,E10+
 10247,Death Jr.: Root of Evil,Wii,2008.0,Platform,Eidos Interactive,0.1,0.0,0.0,0.01,0.11,71.0,14.0,8.1,14.0,Backbone Entertainment,T
 10248,Classic Road,SNES,1993.0,Sports,Victor Interactive,0.0,0.0,0.11,0.0,0.11,,,,,,
@@ -10627,7 +10627,7 @@
 10625,The Bard's Tale,XB,2004.0,Role-Playing,Ubisoft,0.08,0.02,0.0,0.0,0.1,75.0,50.0,8.8,4.0,inXile Entertainment,T
 10626,Nodame Cantabile,DS,2007.0,Misc,Namco Bandai Games,0.0,0.0,0.1,0.0,0.1,,,,,,
 10627,The History Channel: Civil War - Secret Missions,PS3,2008.0,Shooter,Activision,0.09,0.0,0.0,0.01,0.1,,,,,,
-10628,Alien Hominid,PS2,2004.0,Shooter,Zoo Digital Publishing,0.05,0.04,0.0,0.01,0.1,78.0,47.0,8.3,13.0,The Behemoth[1],T
+10628,Alien Hominid,PS2,2004.0,Shooter,Zoo Digital Publishing,0.05,0.04,0.0,0.01,0.1,78.0,47.0,8.3,13.0,The Behemoth,T
 10629,World Snooker Championship 2007,PS3,2007.0,Sports,Sega,0.0,0.1,0.0,0.0,0.1,,,,,,
 10630,L'Aigle de Guerre,GBA,2001.0,Strategy,Nintendo,0.0,0.0,0.1,0.0,0.1,,,,,,
 10631,Earth Defense Force 2025.1: The Shadow of New Despair,PS4,2015.0,Action,D3Publisher,0.0,0.0,0.1,0.0,0.1,,,,,,
@@ -10928,7 +10928,7 @@
 10926,Teenage Mutant Ninja Turtles: Mutants in Manhattan,PS4,2016.0,Action,Activision,0.05,0.02,0.0,0.02,0.09,44.0,49.0,5.5,163.0,PlatinumGames,T
 10927,Ribbit King,PS2,2003.0,Sports,Atari,0.05,0.04,0.0,0.01,0.09,58.0,10.0,6.5,4.0,Namco Bandai,E
 10928,Minecraft: Story Mode,PC,2015.0,Adventure,Mojang,0.02,0.06,0.0,0.01,0.09,,,,,,
-10929,Alien Hominid,GC,2004.0,Shooter,O3 Entertainment,0.07,0.02,0.0,0.0,0.09,78.0,28.0,8.5,15.0,The Behemoth[1],T
+10929,Alien Hominid,GC,2004.0,Shooter,O3 Entertainment,0.07,0.02,0.0,0.0,0.09,78.0,28.0,8.5,15.0,The Behemoth,T
 10930,World Championship Poker 2: Featuring Howard Lederer,XB,2005.0,Misc,Crave Entertainment,0.07,0.02,0.0,0.0,0.09,71.0,9.0,tbd,,Crave,T
 10931,Rygar: The Battle of Argus,Wii,2008.0,Action,Rising Star Games,0.09,0.0,0.0,0.01,0.09,52.0,29.0,7,4.0,Tecmo,T
 10932,Pro Yakyuu Greatest Nine 98,SAT,1998.0,Sports,Sega,0.0,0.0,0.09,0.0,0.09,,,,,,
@@ -14378,7 +14378,7 @@
 14376,Toriko: Ultimate Survival,3DS,2013.0,Action,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03,,,,,,
 14377,Song of the Deep,PC,2016.0,Action,Insomniac Games,0.03,0.0,0.0,0.0,0.03,73.0,12.0,6.3,15.0,Insomniac Games,E
 14378,Vegas Casino,DS,2007.0,Misc,Neko Entertainment,0.03,0.0,0.0,0.0,0.03,,,tbd,,Magnin & Associates,T
-14379,The Binding of Isaac,PC,2012.0,Action,Unknown,0.0,0.03,0.0,0.0,0.03,84.0,30.0,8.3,1010.0,Edmund McMillen[2],
+14379,The Binding of Isaac,PC,2012.0,Action,Unknown,0.0,0.03,0.0,0.0,0.03,84.0,30.0,8.3,1010.0,Edmund McMillen,
 14380,Madou Monogatari,SAT,1998.0,Role-Playing,Compile,0.0,0.0,0.03,0.0,0.03,,,,,,
 14381,Maximum Racing: GP Classic Racing,Wii,2010.0,Racing,Nordic Games,0.03,0.0,0.0,0.0,0.03,,,tbd,,Nordic Games Publishing,E
 14382,Togainu no Chi: True Blood,PS2,2008.0,Adventure,Kadokawa Shoten,0.0,0.0,0.03,0.0,0.03,,,,,,
@@ -14784,7 +14784,7 @@
 14782,Otome wa Oanesama ni Koi Shiteru Portable: 2-Jin no Elder,PSP,2011.0,Adventure,Alchemist,0.0,0.0,0.03,0.0,0.03,,,,,,
 14783,Monster Hunter Frontier Online: Forward 1,X360,2011.0,Role-Playing,Capcom,0.0,0.0,0.03,0.0,0.03,,,,,,
 14784,SingStar Chartbreaker,PS3,2009.0,Misc,Sony Computer Entertainment,0.0,0.02,0.0,0.01,0.03,,,,,,
-14785,Botanicula,PC,2012.0,Adventure,Daedalic Entertainment,0.0,0.02,0.0,0.0,0.03,82.0,38.0,8.3,341.0,Amanita Design[1],
+14785,Botanicula,PC,2012.0,Adventure,Daedalic Entertainment,0.0,0.02,0.0,0.0,0.03,82.0,38.0,8.3,341.0,Amanita Design,
 14786,D1 Professional Drift Grand Prix Series,PS2,2005.0,Racing,Yuke's,0.01,0.01,0.0,0.0,0.03,45.0,14.0,tbd,,Yuke's,E10+
 14787,Max Payne,GBA,2003.0,Shooter,Take-Two Interactive,0.02,0.01,0.0,0.0,0.03,78.0,33.0,7.8,13.0,Mobius Entertainment,M
 14788,Timeshock! Pro Pinball,PS,1998.0,Misc,Empire Interactive,0.02,0.01,0.0,0.0,0.03,,,,,,
@@ -16077,7 +16077,7 @@
 16075,Misshitsu no Sacrifice,PSP,2010.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,,
 16076,Evil Genius,PC,2004.0,Strategy,Vivendi Games,0.0,0.01,0.0,0.0,0.02,75.0,51.0,8.3,106.0,Elixir Studios,T
 16077,Ouran Koukou Host Bu,PS2,2007.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,,
-16078,King's Quest: The Complete Collection,PS4,2016.0,Adventure,Activision,0.01,0.0,0.0,0.0,0.02,,,tbd,,The Odd Gentlemen[1],E10+
+16078,King's Quest: The Complete Collection,PS4,2016.0,Adventure,Activision,0.01,0.0,0.0,0.0,0.02,,,tbd,,The Odd Gentlemen,E10+
 16079,Lotus Challenge,GC,2004.0,Racing,Ignition Entertainment,0.01,0.0,0.0,0.0,0.02,,,,,,
 16080,Imperium Romanum,PC,2008.0,Strategy,Kalypso Media,0.0,0.01,0.0,0.0,0.02,63.0,19.0,7.5,24.0,Haemimont Games,E10+
 16081,Football Manager 2007,X360,,Sports,Sega,0.0,0.01,0.0,0.0,0.01,,,,,,
