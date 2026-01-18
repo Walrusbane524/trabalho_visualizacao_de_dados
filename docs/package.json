@@ -1,0 +1,14 @@
+{
+  "name": "8d7690a8e2a15330",
+  "main": "8d7690a8e2a15330@310.js",
+  "version": "310.0.0",
+  "homepage": "https://observablehq.com/d/8d7690a8e2a15330",
+  "author": {
+    "name": "visualização de dados",
+    "url": "https://observablehq.com/@visualizacao-de-dados5"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
